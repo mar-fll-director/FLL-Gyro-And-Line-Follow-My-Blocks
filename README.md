@@ -4,6 +4,14 @@ Important Note: The initial drop has problems in measuring distance. If it is wo
 
 This is all explained in a Google Slide deck [Gyro and Line Follow My Blocks](https://docs.google.com/presentation/d/1Vga1y9exY-jyWSlCoF_mPb3-asiujL25wlZJDBCBb4c/edit?usp=sharing). Please let me know how it worked out for you. We will be opening the site to allow others to drom new tools of their own making. 
 
+
+## Update to file, Spike Demo Final V2 -- Sept. 20, 2022
+
+I changed the gyro turn to angle to use a preset turn speed called gyro turn speed max. This will make it so the turns are done slow enough to move the robot but not fast enough to throw off the gyro. I have found that I can induce an error in the gyro if I turn too fast. This prevents that problem.
+
+Note: gyro turn speed min was renamed to gyro turn speed max. 
+
+
 ## New file, Spike Demo Final V2 -- Sept. 20, 2022
 
 This version does not overwrite the old one so users can choose what to use. While not the most important part of this update, it does suggest that you use a more accurate representation of Pi like 3.141592 when calculating wheel circumference. When used your distance measurements will now be more accurate. 
