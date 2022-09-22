@@ -2,7 +2,7 @@
 This repo will contain advanced FLL My Blocks for Line Follow and Gyro for EV3 and Spike Prime Robots
 Important Note: The initial drop has problems in measuring distance. If it is working fro you keep going. If you want the distances to be more accurate, wait for the updates. 
 
-This is all explained in a Google Slide deck [Gyro and Line Follow My Blocks Presentation](https://docs.google.com/presentation/d/1Vga1y9exY-jyWSlCoF_mPb3-asiujL25wlZJDBCBb4c/edit?usp=sharing) [Presentation Video}(https://youtu.be/ohcChrbmnUw). Please let me know how it worked out for you. We will be opening the site to allow others to drom new tools of their own making. 
+This is all explained in a Google Slide deck [Gyro and Line Follow My Blocks Presentation](https://docs.google.com/presentation/d/1Vga1y9exY-jyWSlCoF_mPb3-asiujL25wlZJDBCBb4c/edit?usp=sharing) [Presentation Video](https://youtu.be/ohcChrbmnUw). Please let me know how it worked out for you. We will be opening the site to allow others to drom new tools of their own making. 
 
 ## Addition of file, EV3 Demo Final V2 -- Sept. 21, 2022
 
