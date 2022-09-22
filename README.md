@@ -4,6 +4,10 @@ Important Note: The initial drop has problems in measuring distance. If it is wo
 
 This is all explained in a Google Slide deck [Gyro and Line Follow My Blocks](https://docs.google.com/presentation/d/1Vga1y9exY-jyWSlCoF_mPb3-asiujL25wlZJDBCBb4c/edit?usp=sharing). Please let me know how it worked out for you. We will be opening the site to allow others to drom new tools of their own making. 
 
+## Addition of file, EV3 Demo Final V2 -- Sept. 21, 2022
+
+This now follows the changes to the Spike Demo Final V2 as described in the presentaion. 
+
 
 ## Update to file, Spike Demo Final V2 -- Sept. 20, 2022
 
