@@ -7,7 +7,7 @@ This is all explained in a Google Slide deck [Gyro and Line Follow My Blocks Pre
 Please let me know how it worked out for you. We will be opening the site to allow others to drop new tools of their own making. 
 
 ## Addition of file, EV3 Demo Final V2 -- Sept. 21, 2022
-This now follows the changes to the Spike Demo Final V2 as described in the presentaion. 
+This now follows the changes to the Spike Demo Final V2 as described in the presentaion. The video in the presentation does not use it so I could point out the difference between them. The V2 code works as good on EV3 as it deos on Spike. 
 
 
 ## Update to file, Spike Demo Final V2 -- Sept. 20, 2022
