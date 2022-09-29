@@ -4,17 +4,22 @@ Important Note: The initial drop has problems in measuring distance. If it is wo
 
 This is all explained in a Google Slide deck [Gyro and Line Follow My Blocks Presentation](https://docs.google.com/presentation/d/1Vga1y9exY-jyWSlCoF_mPb3-asiujL25wlZJDBCBb4c/edit?usp=sharing). There is also a [Presentation Video](https://youtu.be/Y-mmc1qfdfc). This video has an index to the major sections. We suggest you view the **Setup The Environment** section at least once and then jump around as you need. 
 
-## Starting a New Project
-All the My Blocks in this project that are for demo purposes have been updated with the word **demo** in the definition. 
-To start a new project do the following...
-1) Load up (Spike or EV3) Demo Final V2.llsp
-2) Remove all the My Blocks that have the word demo in the definition.
-3) Save the file to a new project name. 
-Remember if you mess up the original you can always pull it from Github again. 
+Note: There are new Clean versions with all the updates, see below. 
+
+## New Additional (shorter) Presentation
+The presentation called [Help Students Use Line Follow and Gyro Tools](https://docs.google.com/presentation/d/1UHYsoMU4sQItIImVDW6JxholZiNHxqkA5VUVJfzfleM/edit?usp=sharing) shows what you can do with the new "clean" demo free versios. It preso goes through some adjustments you can do on the existing code you have or use the "clean" versions out of the box. It will show you how to use these as templates for your students code code. 
+
+## New Tool Spike Light Reflectivity Tester
+This tool will allow you to test you light reflectivity in you location or at a competiton. Then you can make adjustments in the code settings. 
+This is explained in the new [Help Students Use Line Follow and Gyro Tools](https://docs.google.com/presentation/d/1UHYsoMU4sQItIImVDW6JxholZiNHxqkA5VUVJfzfleM/edit?usp=sharing) presentation. 
 
 Please let me know how it worked out for you. We will be opening the site to allow others to drop new tools of their own making. 
 
 # Changes 
+## Cleaned Up Versions, Spike Demo Final V2 clean and EV3 Demo Final V2 clean -- Sept. 29, 2022
+These are cleaned up versions of the two programs. They do not have demoo code in them. In addition all the chnages in the oroginal demo have been implemented. 
+They are discuss in the new [Help Students Use Line Follow and Gyro Tools](https://docs.google.com/presentation/d/1UHYsoMU4sQItIImVDW6JxholZiNHxqkA5VUVJfzfleM/edit?usp=sharing) presentation.
+
 ## Addition of file, EV3 Demo Final V2 -- Sept. 21, 2022
 This now follows the changes to the Spike Demo Final V2 as described in the presentaion. The video in the presentation does not use it so I could point out the difference between them. The V2 code works as good on EV3 as it deos on Spike. 
 
