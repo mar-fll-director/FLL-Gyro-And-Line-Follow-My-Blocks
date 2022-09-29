@@ -4,10 +4,7 @@ Important Note: The initial drop has problems in measuring distance. If it is wo
 
 This is all explained in a Google Slide deck [Gyro and Line Follow My Blocks Presentation](https://docs.google.com/presentation/d/1Vga1y9exY-jyWSlCoF_mPb3-asiujL25wlZJDBCBb4c/edit?usp=sharing). There is also a [Presentation Video](https://youtu.be/Y-mmc1qfdfc). This video has an index to the major sections. We suggest you view the **Setup The Environment** section at least once and then jump around as you need. 
 
-Note: There are new Clean versions with all the updates, see below. 
-
-## New Additional (shorter) Presentation
-The presentation called [Help Students Use Line Follow and Gyro Tools](https://docs.google.com/presentation/d/1UHYsoMU4sQItIImVDW6JxholZiNHxqkA5VUVJfzfleM/edit?usp=sharing) shows what you can do with the new "clean" demo free versios. It preso goes through some adjustments you can do on the existing code you have or use the "clean" versions out of the box. It will show you how to use these as templates for your students code code. 
+A newer shorter presentation called [Help Students Use Line Follow and Gyro Tools](https://docs.google.com/presentation/d/1UHYsoMU4sQItIImVDW6JxholZiNHxqkA5VUVJfzfleM/edit?usp=sharing) shows what you can do with the new "clean" demo free versios. It preso goes through some adjustments you can do on the existing code you have or use the "clean" versions out of the box. It will show you how to use these as templates for your students code code. 
 
 ## New Tool Spike Light Reflectivity Tester
 This tool will allow you to test you light reflectivity in you location or at a competiton. Then you can make adjustments in the code settings. 
