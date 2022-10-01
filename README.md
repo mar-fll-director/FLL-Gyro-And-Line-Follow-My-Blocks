@@ -6,6 +6,8 @@ This is all explained in a Google Slide deck [Gyro and Line Follow My Blocks Pre
 
 The above presentsation is a deep dive into the details. There is a shorter presentation called [Help Students Use Line Follow and Gyro Tools](https://docs.google.com/presentation/d/1UHYsoMU4sQItIImVDW6JxholZiNHxqkA5VUVJfzfleM/edit?usp=sharing) that shows what you can do with the new "clean" demo free versions. The preso goes through adjustments you can do on the existing Line Follow and Gyro code or use the "clean" versions out of the box. It will show you how to use these as templates for your students to build their code with. 
 
+We have added a [MAR Tools Line Follow and Gyro Q&A](https://docs.google.com/document/d/1ImXs9dXHien4vxTaczBTmVpKdwTA2yu8wNJbacyhVYc/edit?usp=sharing). This will defien the variables we use and report some Q&A we are receiving. 
+
 ## New Tool Spike Light Reflectivity Tester
 This tool will allow you to test you light reflectivity in you location or at a competiton. Then you can make adjustments in the code settings. 
 This is explained in the new [Help Students Use Line Follow and Gyro Tools](https://docs.google.com/presentation/d/1UHYsoMU4sQItIImVDW6JxholZiNHxqkA5VUVJfzfleM/edit?usp=sharing) presentation. 
