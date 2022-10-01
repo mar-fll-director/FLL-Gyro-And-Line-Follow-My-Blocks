@@ -13,8 +13,12 @@ This is explained in the new [Help Students Use Line Follow and Gyro Tools](http
 Please let me know how it worked out for you. We will be opening the site to allow others to drop new tools of their own making. 
 
 # Changes 
+## Fixed bugs in cleaned up versions. Spike Demo Final V2 clean and EV3 Demo Final V2 clean -- Sept. 30, 2022 - 11:00 pm
+Had **line waypoint reflectivity** and **line midpoint reflectivity** in incorrect places. Corrected and tested. 
+Also added new tool for testing Spike light sensor reflectivity. In EV3, light reflectivity is on the dashboard. In Spike it is always color. Cannot test reflectivity like that. New **Tool Spike Light Reflectivity Tester.llsp** allows you to see Spike in reflectivity mode. See [Help Students Use Line Follow and Gyro Tools](https://docs.google.com/presentation/d/1UHYsoMU4sQItIImVDW6JxholZiNHxqkA5VUVJfzfleM/edit?usp=sharing) updated presentation for details. 
+
 ## Cleaned Up Versions, Spike Demo Final V2 clean and EV3 Demo Final V2 clean -- Sept. 29, 2022
-These are cleaned up versions of the two programs. They do not have demoo code in them. In addition all the chnages in the oroginal demo have been implemented. 
+These are cleaned up versions of the two programs. They do not have demo code in them. In addition all the chnages in the oroginal demo have been implemented. 
 They are discuss in the new [Help Students Use Line Follow and Gyro Tools](https://docs.google.com/presentation/d/1UHYsoMU4sQItIImVDW6JxholZiNHxqkA5VUVJfzfleM/edit?usp=sharing) presentation.
 
 ## Addition of file, EV3 Demo Final V2 -- Sept. 21, 2022
