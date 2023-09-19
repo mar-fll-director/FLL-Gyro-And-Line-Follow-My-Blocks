@@ -1,5 +1,5 @@
 # FLL-Gyro-And-Line-Follow-My-Blocks
-*Update*: Sept, 2023 - New version of tools for Spike Prime 3.0 [MAR FLL Challeneg Tools - Spike Prime 3.0 2023](https://github.com/mar-fll-director/FLL-MAR-Tools-Spike-3.0-2023)
+*Update*: Sept, 2023 - New version of tools for Spike Prime 3.0 [MAR FLL Challenge Tools - Spike Prime 3.0 2023](https://github.com/mar-fll-director/FLL-MAR-Tools-Spike-3.0-2023)
 
 This repo will contain advanced FLL My Blocks for Line Follow and Gyro for EV3 and Spike Prime Robots
 Important Note: The initial drop has problems in measuring distance. If it is working fro you keep going. If you want the distances to be more accurate, wait for the updates. 
